@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application week 2</string>
+    <string name="app_name2">app name 2nd res</string>
+    <string name="greeting">Hello world resource</string>
+</resources>
