@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application week 2</string>
-    <string name="app_name2">app name 2 !!!!nd res</string>
+    <string name="app_name">My Application week 2-2</string>
+    <string name="app_name2">2번째 변경</string>
     <string name="change">Hello </string>
 </resources>
